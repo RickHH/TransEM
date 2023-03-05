@@ -7,7 +7,7 @@ Positron emission tomography(PET) image reconstruction is an ill-posed inverse p
 Feel free to contact rickhu@zju.edu.cn if you have any questions.
 ## Citation
 If you find our paper or repo useful, please consider citing our paper:
-'''
+```
 @inproceedings{hu2022transem,
   title={TransEM: Residual Swin-Transformer based regularized PET image reconstruction},
   author={Hu, Rui and Liu, Huafeng},
@@ -16,7 +16,7 @@ If you find our paper or repo useful, please consider citing our paper:
   year={2022},
   organization={Springer}
 }
-'''
+```
 ## Acknowledgments
 [FBSEM](https://github.com/Abolfazl-Mehranian/FBSEM)
 
