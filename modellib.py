@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import numpy as np
-from RSTR import RSTR
+from model.RSTR import RSTR
 
 from torch.utils.data import Dataset
 from numpy import load, ceil
